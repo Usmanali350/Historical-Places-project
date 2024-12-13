@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Karachi Beach Hostel",
+    "location": "Karachi, Sindh",
+    "availableRooms": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Karachi_Beach.jpg",
+    "ad": "Enjoy a beachfront stay in the heart of Karachi!"
+  },
+  {
+    "id": 2,
+    "name": "Lahore Heritage Hostel",
+    "location": "Lahore, Punjab",
+    "availableRooms": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Badshahi_Mosque_Lahore.jpg",
+    "ad": "Stay near the cultural heart of Lahore!"
+  },
+  {
+    "id": 3,
+    "name": "Islamabad Hills Hostel",
+    "location": "Islamabad, Capital Territory",
+    "availableRooms": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Islamabad_Hills.jpg",
+    "ad": "Wake up to beautiful mountain views in Islamabad."
+  },
+  {
+    "id": 4,
+    "name": "Murree Mountain Hostel",
+    "location": "Murree, Punjab",
+    "availableRooms": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Murree_Mountain.jpg",
+    "ad": "Escape to the hills with refreshing cool air."
+  },
+  {
+    "id": 5,
+    "name": "Peshawar Central Hostel",
+    "location": "Peshawar, Khyber Pakhtunkhwa",
+    "availableRooms": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Peshawar_Landmarks.jpg",
+    "ad": "Stay close to historical landmarks in Peshawar."
+  },
+  {
+    "id": 6,
+    "name": "Quetta Desert Hostel",
+    "location": "Quetta, Balochistan",
+    "availableRooms": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Quetta_Desert.jpg",
+    "ad": "Experience the tranquil desert landscape of Quetta."
+  },
+  {
+    "id": 7,
+    "name": "Gilgit Mountain View Hostel",
+    "location": "Gilgit-Baltistan",
+    "availableRooms": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gilgit_Mountains.jpg",
+    "ad": "Stay with stunning views of the northern mountain ranges."
+  },
+  {
+    "id": 8,
+    "name": "Skardu Valley Hostel",
+    "location": "Skardu, Gilgit-Baltistan",
+    "availableRooms": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Skardu_Valley.jpg",
+    "ad": "Breathtaking views of Skardu Valley and serene lakes."
+  },
+  {
+    "id": 9,
+    "name": "Karimabad Adventure Hostel",
+    "location": "Karimabad, Gilgit-Baltistan",
+    "availableRooms": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Karimabad_Hunza.jpg",
+    "ad": "For the adventurous traveler, stay near the Hunza Valley."
+  },
+  {
+    "id": 10,
+    "name": "Multan City Hostel",
+    "location": "Multan, Punjab",
+    "availableRooms": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Multan_Heritage.jpg",
+    "ad": "Explore the ancient city of Multan with ease!"
+  },
+  {
+    "id": 11,
+    "name": "Sialkot Business Hostel",
+    "location": "Sialkot, Punjab",
+    "availableRooms": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sialkot_Business.jpg",
+    "ad": "Perfect for business travelers in Sialkot!"
+  },
+  {
+    "id": 12,
+    "name": "Faisalabad Industrial Hostel",
+    "location": "Faisalabad, Punjab",
+    "availableRooms": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Faisalabad_Industrial.jpg",
+    "ad": "A great place to stay while visiting Faisalabad's industrial hubs."
+  },
+  {
+    "id": 13,
+    "name": "Rawalpindi Transit Hostel",
+    "location": "Rawalpindi, Punjab",
+    "availableRooms": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rawalpindi.jpg",
+    "ad": "Ideal for transit travelers looking for comfort."
+  },
+  {
+    "id": 14,
+    "name": "Lahore Royal Hostel",
+    "location": "Lahore, Punjab",
+    "availableRooms": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Badshahi_Mosque_Lahore.jpg",
+    "ad": "Luxury and comfort await you in the heart of Lahore."
+  },
+  {
+    "id": 15,
+    "name": "Karachi Urban Hostel",
+    "location": "Karachi, Sindh",
+    "availableRooms": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Karachi_Urban.jpg",
+    "ad": "Stay in the vibrant urban center of Karachi!"
+  }
+]

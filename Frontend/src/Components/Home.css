@@ -1,0 +1,36 @@
+/* Home.css */
+
+/* Card hover effect */
+.card {
+    background: linear-gradient(135deg, #f9f6f1, #eae2d6); 
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.4s ease, background 0.4s ease, box-shadow 0.4s ease;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); 
+    color: #4a3b30; 
+}
+  
+ 
+
+  .card:hover {
+    background: linear-gradient(135deg, #14fce8, #f314d5); 
+    transform: translateY(-8px) scale(1.05); /* Lift and enlarge */
+    box-shadow: 0 12px 25px rgba(193, 154, 107, 0.5), 0 0 20px rgba(139, 94, 60, 0.6); /* Warm glowing shadow */
+    color: white; /* Text contrast on hover */
+}
+
+  
+  /* Show More / Show Less Button styles */
+  button {
+    padding: 10px 20px;
+    background-color: #0766d3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

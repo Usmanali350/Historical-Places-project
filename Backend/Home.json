@@ -1,0 +1,144 @@
+[
+    {
+      "id": 1,
+      "name": "Badshahi Mosque",
+      "location": "Lahore",
+      "description": "The Badshahi Mosque, built in 1673 by Mughal Emperor Aurangzeb, is one of the largest and most beautiful mosques in the world. Known for its stunning Mughal architecture, it is a symbol of Lahore's rich Islamic heritage.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Badshahi_Mosque_Lahore.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lahore Fort",
+      "location": "Lahore",
+      "description": "The Lahore Fort, or Shahi Qila, is a massive structure dating back to the 11th century, originally built by Emperor Akbar. This UNESCO World Heritage site houses several structures reflecting Mughal grandeur.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lahore_Fort_2010.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Minar-e-Pakistan",
+      "location": "Lahore",
+      "description": "Minar-e-Pakistan is a historical monument that commemorates the Lahore Resolution of 1940, which led to the creation of Pakistan. It stands as a symbol of Pakistan's independence movement.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Minar-e-Pakistan.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mohenjo-Daro",
+      "location": "Sindh",
+      "description": "Mohenjo-Daro is an ancient city that was part of the Indus Valley Civilization, dating back to 2600 BCE. It is one of the earliest urban settlements and is famous for its advanced drainage system and well-planned architecture.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mohenjo_Daro.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shahi Qila",
+      "location": "Lahore",
+      "description": "Shahi Qila, also known as the Lahore Fort, was expanded during the Mughal era and remains one of the most significant historical structures in Lahore. It showcases Mughal architecture and includes several palaces, mosques, and gardens.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/ShahiQilaLahore.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Faisal Mosque",
+      "location": "Islamabad",
+      "description": "Faisal Mosque is the largest mosque in Pakistan and one of the largest in the world. Designed by Turkish architect Vedat Dalokay, it is an iconic symbol of modern Islamic architecture and serves as a national landmark.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Faisal_Mosque_1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hiran Minar",
+      "location": "Sheikhupura",
+      "description": "Hiran Minar is a Mughal-era monument built by Emperor Jahangir in 1606 in memory of his pet deer, named Hiran. The structure is surrounded by a large reservoir, and its purpose was to honor the emperor's favorite animal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hiran_Minar_Sheikhupura.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rohtas Fort",
+      "location": "Jhelum",
+      "description": "Rohtas Fort, built by the Afghan king Sher Shah Suri in the 16th century, was designed to suppress local tribes and defend against invaders. It is known for its impressive defensive walls and gates.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rohtas_Fort.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Great Wall of Lahore",
+      "location": "Lahore",
+      "description": "The Great Wall of Lahore is an ancient wall built to protect the city from invaders. It stretches over several kilometers and was a significant defense structure in the city's history.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lahore_Wall_2016.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Makli Necropolis",
+      "location": "Thatta",
+      "description": "Makli Necropolis is one of the largest graveyards in the world, containing the tombs of several rulers, saints, and scholars. It is a UNESCO World Heritage site known for its intricate stone carvings and historical significance.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Makli_Graveyard.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bala Hisar Fort",
+      "location": "Peshawar",
+      "description": "Bala Hisar Fort, perched on a hilltop, was originally constructed by the Mughal Empire in the 16th century. The fort has been a military stronghold throughout history and offers stunning views of the surrounding city.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bala_Hisar_Fort.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Derawar Fort",
+      "location": "Bahawalpur",
+      "description": "Derawar Fort is a massive fort located in the Cholistan Desert. It was built in the 9th century and expanded in the 18th century, offering a remarkable sight amidst the desert sands.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Derawar_Fort.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Sahiwal Museum",
+      "location": "Sahiwal",
+      "description": "Sahiwal Museum showcases the rich cultural and historical heritage of the region, including a variety of artifacts and exhibits related to the ancient civilizations that once thrived here.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sahiwal_Museum.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Taxila",
+      "location": "Rawalpindi",
+      "description": "Taxila is an important archaeological site and a former center of learning in ancient times. It was a hub for Buddhist culture and philosophy, and the ruins contain remnants of monasteries, stupas, and ancient inscriptions.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Taxila_ancient_city.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jamia Masjid",
+      "location": "Multan",
+      "description": "The Jamia Masjid of Multan is a stunning mosque known for its historical importance and beautiful tile work. It has been a place of worship and reflection for centuries.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Multan_Jamia_Masjid.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Karakoram Highway",
+      "location": "Gilgit-Baltistan",
+      "description": "Karakoram Highway is one of the highest paved international roads, connecting Pakistan to China. It passes through breathtaking landscapes, including mountains, valleys, and glaciers.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Karakoram_Highway.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sheikhupura Fort",
+      "location": "Sheikhupura",
+      "description": "Sheikhupura Fort, built by Emperor Jahangir in the 17th century, is a historically significant fort that served as a royal residence and military stronghold.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sheikhupura_Fort.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Wazir Khan Mosque",
+      "location": "Lahore",
+      "description": "Wazir Khan Mosque is a masterpiece of Mughal architecture, known for its intricate tile work and stunning frescoes. It was constructed in the 17th century under the Mughal Emperor Shah Jahan.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wazir_Khan_Mosque.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Chaukhandi Tombs",
+      "location": "Karachi",
+      "description": "The Chaukhandi Tombs are ancient sandstone tombs located near Karachi. They are known for their unique and elaborate carvings, showcasing the art and culture of the Sindhi people.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chaukhandi_Tombs.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Lahore Museum",
+      "location": "Lahore",
+      "description": "The Lahore Museum is one of the oldest and largest museums in Pakistan, housing a vast collection of artifacts that cover the region's history, from ancient to modern times.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lahore_Museum.jpg"
+    }
+    
+  ]
+  
